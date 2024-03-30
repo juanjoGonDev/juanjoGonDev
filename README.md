@@ -1,6 +1,10 @@
 Technology lover<br>
 Enthusiastic about automation, especially in the new era that we are living with Artificial Intelligence
 
+<a href="https://app.daily.dev/juanjogondev">
+  <img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=default&r=1jh" width="356" alt="Juan José González Rodríguez's Dev Card"/>
+</a>
+
 <details open="">
   <summary>🔥 <b>Github Profile Stats</b></summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
