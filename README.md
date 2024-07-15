@@ -1,16 +1,36 @@
-Technology lover<br>
-Enthusiastic about automation, especially in the new era that we are living with Artificial Intelligence
+# Juanjo Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjodeveloper/)
+
+Hi! I'm Juanjo, a passionate developer with a strong background in technology and software development. I love learning new things and sharing my knowledge with the community.
+
+## About Me
+- 👨‍💻 I have 3 years of professional work experience and have been programming independently since 2011 as a self-taught developer.
+- 🤖 I'm fascinated by the world of artificial intelligence, automation, and constant improvements. I don't stop until I find a solution to a problem.
+- 💻 Currently, I work as a backend developer using NestJS since August 2021.
+- 🚀 From January 2021 to August 2021, I worked with Angular and Ionic.
+
+## Open Source Projects
+- **Fastypest**: My open-source package. Check it out on [GitHub](https://github.com/juanjoGonDev/fastypest).
+
+## Skills
+- **Languages**: JavaScript, Typescript, Mysql.
+- **Frameworks**: NestJS, Angular, Ionic, React, Node.js, Express.
+- **Tools**: Git, Docker, Grafana.
+
+## Contact
+For more information or collaboration, feel free to send me a message through [LinkedIn](https://www.linkedin.com/in/juanjodeveloper/).
 
 <p>
-<a href="https://buymeacoffee.com/juanjogondev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+  <a href="https://app.daily.dev/juanjogondev"><img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=wide&r=1jh" width="652" alt="Juan José González Rodríguez's Dev Card"/></a>
 </p>
-
-<a href="https://app.daily.dev/juanjogondev"><img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=wide&r=1jh" width="652" alt="Juan José González Rodríguez's Dev Card"/></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=juanjoGonDev&theme=dark&hide_border=true&card_width=652)](https://git.io/streak-stats)
-
 <details open="">
   <summary>🔥 <b>Github Profile Stats</b></summary>
+  <p>
+    <a href="https://git.io/streak-stats">
+      <img width="652" align="center" src="https://streak-stats.demolab.com?user=juanjoGonDev&theme=dark&hide_border=true&card_width=652" alt="GitHub Streak" />
+    </a>
+  </p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 width="320" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=juanjoGonDev&theme=vision-friendly-dark&show=reviews,discussions_started,discussions_answered&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
