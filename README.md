@@ -13,10 +13,19 @@ Hi! I'm Juanjo, a passionate developer with a strong background in technology an
 ## Open Source Projects
 - [**Fastypest**](https://github.com/juanjoGonDev/fastypest): package.
 
-## Skills
+## Tech Skills
 - **Languages**: JavaScript, Typescript, Mysql.
 - **Frameworks**: NestJS, Angular, Ionic, React, Node.js, Express.
 - **Tools**: Git, Docker, Grafana.
+
+## Soft Skills
+- **Problem-Solving**: Strong analytical skills to identify and resolve complex issues.
+- **Adaptability**: Ability to quickly learn and apply new technologies and methodologies.
+- **Team Collaboration**: Experienced in working effectively with cross-functional teams.
+- **Communication**: Clear and concise in verbal and written communication.
+- **Time Management**: Skilled at managing priorities and meeting deadlines.
+- **Continuous Learning**: Passionate about self-improvement and staying updated with industry trends.
+- **Attention to Detail**: Ensuring high-quality output and adherence to standards.
 
 ## Contact
 For more information or collaboration, feel free to send me a message through [LinkedIn](https://www.linkedin.com/in/juanjodeveloper/).
