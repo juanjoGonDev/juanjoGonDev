@@ -11,7 +11,7 @@ Hi! I'm Juanjo, a passionate developer with a strong background in technology an
 - 🚀 From January 2021 to August 2021, I worked with Angular and Ionic.
 
 ## Open Source Projects
-- **Fastypest**: My open-source package. Check it out on [GitHub](https://github.com/juanjoGonDev/fastypest).
+- [**Fastypest**](https://github.com/juanjoGonDev/fastypest): package.
 
 ## Skills
 - **Languages**: JavaScript, Typescript, Mysql.
