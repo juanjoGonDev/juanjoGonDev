@@ -4,8 +4,6 @@
 
 Hi! I'm Juanjo, a passionate developer with a strong background in technology and software development. I love learning new things and sharing my knowledge with the community.
 
-<img src="https://raw.githubusercontent.com/juanjogondev/juanjogondev/output/snake.svg" alt="Snake animation" />
-
 ## About Me
 - 👨‍💻 I started my professional career in 2021 and have been programming independently since 2011 as a self-taught developer
 - 🤖 I'm fascinated by the world of artificial intelligence, automation, and constant improvements. I don't stop until I find a solution to a problem.
@@ -37,6 +35,9 @@ For more information or collaboration, feel free to send me a message through [L
 </p>
 <details open="">
   <summary>🔥 <b>Github Profile Stats</b></summary>
+  <p>
+    <img src="https://raw.githubusercontent.com/juanjogondev/juanjogondev/output/snake.svg" alt="Snake animation" />
+  </p>
   <p>
     <a href="https://git.io/streak-stats">
       <img width="652" align="center" src="https://streak-stats.demolab.com?user=juanjoGonDev&theme=dark&hide_border=true&card_width=652" alt="GitHub Streak" />
