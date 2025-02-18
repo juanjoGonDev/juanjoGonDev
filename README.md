@@ -1,14 +1,27 @@
 # Juanjo Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjodeveloper/)
-
-Hi! I'm Juanjo, a passionate developer with a strong background in technology and software development. I love learning new things and sharing my knowledge with the community.
-
-## About Me
-- 👨‍💻 I started my professional career in 2021 and have been programming independently since 2011 as a self-taught developer
-- 🤖 I'm fascinated by the world of artificial intelligence, automation, and constant improvements. I don't stop until I find a solution to a problem.
-- 💻 Currently, I work as a backend developer using NestJS since August 2021.
-- 🚀 From January 2021 to August 2021, I worked with Angular and Ionic.
+<table>
+  <tr>
+    <td valign="top">
+      <p></p><a href="https://app.daily.dev/juanjogondev"><img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=default&r=vkj" width="356" alt="Juan José González Rodríguez's Dev Card"/></a></p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/juanjodeveloper"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      </p>
+    </td>
+    <td valign="top">
+      <h2>About Me</h2>
+      <p>
+        Hi! I'm Juanjo, a passionate developer with a strong background in technology and software development. I love learning new things and sharing my knowledge with the community.
+      </p>
+      <ul>
+        <li>👨‍💻 I started my professional career in 2021 and have been programming independently since 2011 as a self-taught developer</li>
+        <li>🤖 I'm fascinated by the world of artificial intelligence, automation, and constant improvements.</li>
+        <li>💻 Currently, I work as a backend developer using NestJS since August 2021.</li>
+        <li>🚀 From January 2021 to August 2021, I worked with Angular and Ionic.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Open Source Projects
 - [**Fastypest**](https://github.com/juanjoGonDev/fastypest): package.
@@ -27,12 +40,6 @@ Hi! I'm Juanjo, a passionate developer with a strong background in technology an
 - **Continuous Learning**: Passionate about self-improvement and staying updated with industry trends.
 - **Attention to Detail**: Ensuring high-quality output and adherence to standards.
 
-## Contact
-For more information or collaboration, feel free to send me a message through [LinkedIn](https://www.linkedin.com/in/juanjodeveloper/).
-
-<p>
-  <a href="https://app.daily.dev/juanjogondev"><img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=wide&r=1jh" width="652" alt="Juan José González Rodríguez's Dev Card"/></a>
-</p>
 <details open="">
   <summary>🔥 <b>Github Profile Stats</b></summary>
   <p>
