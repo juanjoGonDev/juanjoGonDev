@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td valign="top">
-      <p></p><a href="https://app.daily.dev/juanjogondev"><img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=default&r=vkj" width="356" alt="Juan José González Rodríguez's Dev Card"/></a></p>
+      <p></p><a href="https://app.daily.dev/juanjogondev"><img src="https://api.daily.dev/devcards/v2/rDpWq0E4ZyRejj5IFc7pc.png?type=default&r=vkj" width="556" alt="Juan José González Rodríguez's Dev Card"/></a></p>
       <p align="center">
         <a href="https://www.linkedin.com/in/juanjodeveloper"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </p>
