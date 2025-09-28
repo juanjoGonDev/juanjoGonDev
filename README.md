@@ -24,7 +24,10 @@
 </table>
 
 ## Open Source Projects
-- [**Fastypest**](https://github.com/juanjoGonDev/fastypest): package.
+- [**Fastypest**](https://github.com/juanjoGonDev/fastypest)
+  With this library, you can run your test suites without having to stop and restore the database in between them
+- [**typeorm-test-db**](https://github.com/juanjoGonDev/typeorm-test-db)
+  TypeORM extension for running parallel tests inside transactions, ensuring isolation, no real data changes, and automatic rollback on completion
 
 ## Tech Skills
 - **Languages**: JavaScript, Typescript, Mysql.
