@@ -13,6 +13,9 @@
       <p>
         Hi! I'm Juanjo, a passionate developer with a strong background in technology and software development. I love learning new things and sharing my knowledge with the community.
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/-Raspberry_Pi_Homelab-C51A4A?style=for-the-badge&amp;logo=Raspberry-Pi" alt="Raspberry Pi">
+      </p>
       <ul>
         <li>👨‍💻 I started my professional career in 2021 and have been programming independently since 2011 as a self-taught developer</li>
         <li>🤖 I'm fascinated by the world of artificial intelligence, automation, and constant improvements.</li>
@@ -52,3 +55,5 @@
     <img height=200 width="320" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=juanjoGonDev&theme=vision-friendly-dark&show=reviews,discussions_started,discussions_answered&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
 </details>
+
+<img src="https://profile-counter.glitch.me/juanjoGonDev/count.svg" alt="Visitor's Count" />
