@@ -31,6 +31,9 @@
   With this library, you can run your test suites without having to stop and restore the database in between them
 - [**typeorm-test-db**](https://github.com/juanjoGonDev/typeorm-test-db)
   TypeORM extension for running parallel tests inside transactions, ensuring isolation, no real data changes, and automatic rollback on completion
+- [**106**](https://juanjogondev.github.io/106/)
+  An online game where you compete to be the fastest to achieve the target time. Facing the soccer team of Spain and Argentina. With daily prizes, achievement system, reward system, statistics system, trophies and much more.
+  
 
 ## Tech Skills
 - **Languages**: JavaScript, Typescript, Mysql.
