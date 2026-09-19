@@ -55,7 +55,7 @@
   <p>
     <img src="https://raw.githubusercontent.com/juanjogondev/juanjogondev/output/snake.svg" alt="Snake animation" />
   </p>
-    <img height=200 width="320" align="center" src="https://github-readme-mwendwa.vercel.app/api?username=juanjoGonDev&theme=vision-friendly-dark&show=reviews,discussions_started,discussions_answered&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height=200 width="320" align="center" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=juanjoGonDev&layout=compact&count_private=true&theme=vision-friendly-dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height=auto width="auto" align="center" src="https://ghstats.dev/api/card?username=juanjoGonDev" alt="GitHub Stats Card" />
+    <img  height=auto width="auto" align="center"  src="https://ghstats.dev/api/langs?username=juanjoGonDev&layout=donut_vertical" alt="Top Languages" />
 </details>
 
