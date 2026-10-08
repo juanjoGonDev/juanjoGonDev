@@ -33,7 +33,7 @@
   TypeORM extension for running parallel tests inside transactions, ensuring isolation, no real data changes, and automatic rollback on completion
 - [**106**](https://juanjogondev.github.io/106/)
   An online game where you compete to be the fastest to achieve the target time. Facing the soccer team of Spain and Argentina. With daily prizes, achievement system, reward system, statistics system, trophies and much more.
-- [**devBar**](https://juanjogondev.github.io/devBar/) A menu-bar launcher for your local development services.
+- [**devBar**](https://github.com/juanjoGonDev/devbar) A menu-bar launcher for your local development services.
 - [**browser-recorder**](https://github.com/juanjoGonDev/browser-recorder) Record a real browser session into a faithful, plain Patchright script, managed from a terminal UI
   
 
