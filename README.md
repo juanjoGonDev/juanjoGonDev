@@ -35,6 +35,9 @@
   An online game where you compete to be the fastest to achieve the target time. Facing the soccer team of Spain and Argentina. With daily prizes, achievement system, reward system, statistics system, trophies and much more.
 - [**devBar**](https://github.com/juanjoGonDev/devbar) A menu-bar launcher for your local development services.
 - [**browser-recorder**](https://github.com/juanjoGonDev/browser-recorder) Record a real browser session into a faithful, plain Patchright script, managed from a terminal UI
+- [**Andalucía Transit**](https://github.com/juanjoGonDev/andalucia-transit)
+  Progressive Web App for public transport across Andalusia. Features bus schedules, interactive maps, GPS-based trip tracking, live journey timelines, reminders, and route planning. Built with Angular and TypeScript using AI coding agents under my direction. [Live Demo](https://juanjogondev.github.io/andalucia-transit/)
+
   
 
 ## Tech Skills
